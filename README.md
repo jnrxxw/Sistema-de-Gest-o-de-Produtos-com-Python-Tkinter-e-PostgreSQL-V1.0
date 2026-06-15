@@ -85,7 +85,7 @@ CREATE TABLE PRODUTO (
 
 ## 📸 Demonstração
 
-<img src="images/logo.png" alt="Logo" width="300">
+<img src="interface.png" alt="Logo" width="300">
 
 Sugestão:
 
