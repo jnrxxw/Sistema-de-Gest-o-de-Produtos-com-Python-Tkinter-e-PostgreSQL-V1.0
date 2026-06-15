@@ -85,7 +85,7 @@ CREATE TABLE PRODUTO (
 
 ## 📸 Demonstração
 
-> (Adicione aqui prints da aplicação rodando)
+<img src="images/logo.png" alt="Logo" width="300">
 
 Sugestão:
 
