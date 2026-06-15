@@ -1,4 +1,4 @@
- 🛒 Sistema de Gestão de Produtos (Python + Tkinter + PostgreSQL)
+🛒 Sistema de Gestão de Produtos (Python + Tkinter + PostgreSQL)
 
 
 
@@ -85,7 +85,7 @@ CREATE TABLE PRODUTO (
 
 ## 📸 Demonstração
 
-<img src="interface.png" alt="Logo" width="300">
+<img width="828" height="292" alt="Interface" src="https://github.com/user-attachments/assets/d3c7d56e-4c71-4dc1-b1a4-9ec2c3b0a237" />
 
 Sugestão:
 
